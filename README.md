@@ -1,4 +1,4 @@
-## DYNAMICS PRICES
+# DYNAMIC PRICES
 
 DynamicPrices és una aplicació web que ofereix una forma innovadora de gestionar els preus dels productes, permetent als clients accedir a descomptes variables i als venedors ajustar els preus segons la demanda dels consumidors. Això crea un equilibri beneficiós per a tots els implicats i redueix el malbaratament de productes.
 
@@ -9,7 +9,7 @@ A més de la dinàmica de preus, els venedors tenen la capacitat de programar ba
 Els usuaris accedeixen a l'aplicació a través d'una interfície web implementada en React o una altra tecnologia similar. Aquest front-end es comunica amb una base de dades MySQL per emmagatzemar les dades de manera eficient i segura. En resum, DynamicPrices ofereix una plataforma versàtil i eficaç per optimitzar els preus dels productes tant per als venedors com per als clients.
 
 
-# ARQUITECTURA
+## ARQUITECTURA
 
 DynamicPrices és una aplicació web que utilitza diversos llenguatges, frameworks i eines per proporcionar una plataforma dinàmica de gestió de preus de productes. A continuació, es detallen els components clau de la seva arquitectura:
 
