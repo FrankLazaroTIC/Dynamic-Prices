@@ -30,3 +30,5 @@ DynamicPrices és una aplicació web que utilitza diversos llenguatges, framewor
 - **/database:** Conté els scripts de creació i migració de la base de dades MySQL.
 - **/public:** Conté els fitxers estàtics com ara imatges, fonts, etc., utilitzats en el front-end.
 - **/docs:** Documentació rellevant del projecte.
+
+By Frank Joel Su
