@@ -1,0 +1,33 @@
+/* Card.css */
+
+.tarjeta {
+    height: 10%;
+    width: 80%;
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: #5F2E60;
+  }
+  
+  .imagen-izquierda {
+    border-radius: 30px;
+    width: 150px; 
+    height: 150px;
+    margin-right: 10px;
+  }
+  
+  .contenido-derecha {
+    flex-grow: 1;
+  }
+  
+  h1 {
+    color: #ffffff;
+  }
+  
+  p {
+    color: #ffffff;
+  }
+  

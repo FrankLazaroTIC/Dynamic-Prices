@@ -1,0 +1,11 @@
+.checkbox-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .checkbox-container {
+    margin-left: 10px;
+  }
+  
